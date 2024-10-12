@@ -1,2 +1,2 @@
 # auto_Outlook_script
-A Python script that automates Outlook login.
+a python script that automates outlook login.
